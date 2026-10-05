@@ -1,0 +1,12 @@
+#Versión de Streamlit
+streamlit==1.56.0
+
+# Necesario para ejecutar los notebooks de los ejercicios 2-7
+jupyter
+
+#Librerias externas 
+pandas 
+folium 
+streamlit-folium 
+
+

@@ -1,0 +1,19 @@
+#Datasets originales
+
+raw_datasets/IADIZA
+raw_datasets/iNaturalist
+raw_datasets/Xeno-canto
+
+#Archivos creados durante el código
+__pycache__/
+.ipynb_checkpoints/
+
+#Entorno virtual
+.venv/
+
+#Datasets procesados
+processed_datasets/iadiza-procesado.txt
+processed_datasets/inaturalist-procesado.csv
+processed_datasets/xeno-procesado.txt
+processed_datasets/xeno-canto-procesado.txt
+occurrence_con_id_eliminado.csv
