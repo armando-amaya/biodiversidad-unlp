@@ -5,11 +5,11 @@
 Este proyecto es una aplicación desarrollada en Python para el procesamiento, validación y visualización de datos de biodiversidad bajo el estándar **Darwin Core**. Se enfoca en la limpieza de datos provenientes de instituciones científicas y su posterior presentación mediante una interfaz interactiva.
 
 ## Integrantes - Grupo 44
-* Armando Amaya Flores - 018774/3
-* Angeles Solange Cancinos - 018570/1
-* Lara González - 018883/7
-* Manuela Iglesias Delgado - 018661/4
-* Amaranta Rode - 018936/3
+* Armando Amaya Flores
+* Angeles Solange Cancinos
+* Lara González
+* Manuela Iglesias Delgado
+* Amaranta Rode
 
 ## Estructura del Repositorio
 Basado en las consignas de la cátedra, el repositorio se organiza de la siguiente manera:
